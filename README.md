@@ -20,6 +20,13 @@
 <br />
 <br />
 
+ <details>   
+ <summary>:zap: GitHub Stats</summary>    
+ 
+ <img align="left" alt="codekojo's GitHub Stats" src="https://github-readme-stats-two-pi-63.vercel.app/api?username=codekojo&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://codewithkojo.com
 [twitter]: https://twitter.com/kojoswic
 [linkedin]: https://www.linkedin.com/in/agyemangduahc/
