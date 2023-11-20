@@ -5,7 +5,7 @@
 
 
 
-[website]: https://codewithkojo.com
+[website]: https://clintoncodes.com
 [twitter]: https://twitter.com/kojoswic
 [linkedin]: https://www.linkedin.com/in/agyemangduahc/
 
